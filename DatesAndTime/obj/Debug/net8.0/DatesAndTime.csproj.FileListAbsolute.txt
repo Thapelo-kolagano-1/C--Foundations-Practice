@@ -1,0 +1,14 @@
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\bin\Debug\net8.0\DatesAndTime.exe
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\bin\Debug\net8.0\DatesAndTime.deps.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\bin\Debug\net8.0\DatesAndTime.runtimeconfig.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\bin\Debug\net8.0\DatesAndTime.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\bin\Debug\net8.0\DatesAndTime.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\obj\Debug\net8.0\DatesAndTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\obj\Debug\net8.0\DatesAndTime.AssemblyInfoInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\obj\Debug\net8.0\DatesAndTime.AssemblyInfo.cs
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\obj\Debug\net8.0\DatesAndTime.csproj.CoreCompileInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\obj\Debug\net8.0\DatesAndTime.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\obj\Debug\net8.0\refint\DatesAndTime.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\obj\Debug\net8.0\DatesAndTime.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\obj\Debug\net8.0\DatesAndTime.genruntimeconfig.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\DatesAndTime\obj\Debug\net8.0\ref\DatesAndTime.dll

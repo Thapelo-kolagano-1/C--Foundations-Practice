@@ -1,0 +1,4 @@
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\TimerExample\obj\Debug\net8.0\TimerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\TimerExample\obj\Debug\net8.0\TimerExample.AssemblyInfoInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\TimerExample\obj\Debug\net8.0\TimerExample.AssemblyInfo.cs
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\TimerExample\obj\Debug\net8.0\TimerExample.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\bin\Debug\net8.0\EnumsAndSwitch.exe
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\bin\Debug\net8.0\EnumsAndSwitch.deps.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\bin\Debug\net8.0\EnumsAndSwitch.runtimeconfig.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\bin\Debug\net8.0\EnumsAndSwitch.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\bin\Debug\net8.0\EnumsAndSwitch.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\obj\Debug\net8.0\EnumsAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\obj\Debug\net8.0\EnumsAndSwitch.AssemblyInfoInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\obj\Debug\net8.0\EnumsAndSwitch.AssemblyInfo.cs
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\obj\Debug\net8.0\EnumsAndSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\obj\Debug\net8.0\EnumsAndSwitch.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\obj\Debug\net8.0\refint\EnumsAndSwitch.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\obj\Debug\net8.0\EnumsAndSwitch.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\obj\Debug\net8.0\EnumsAndSwitch.genruntimeconfig.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\EnumsAndSwitch\obj\Debug\net8.0\ref\EnumsAndSwitch.dll

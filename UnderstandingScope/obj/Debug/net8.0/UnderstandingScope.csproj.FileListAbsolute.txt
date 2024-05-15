@@ -1,0 +1,14 @@
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.AssemblyInfoInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.AssemblyInfo.cs
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.exe
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.deps.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.runtimeconfig.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\obj\Debug\net8.0\refint\UnderstandingScope.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.genruntimeconfig.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\UnderstandingScope\obj\Debug\net8.0\ref\UnderstandingScope.dll

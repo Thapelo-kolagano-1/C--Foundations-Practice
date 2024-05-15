@@ -1,0 +1,14 @@
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.exe
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.deps.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.runtimeconfig.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\bin\Debug\net8.0\ObjectLifeTime.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.AssemblyInfoInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.AssemblyInfo.cs
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.csproj.CoreCompileInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\obj\Debug\net8.0\refint\ObjectLifeTime.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\obj\Debug\net8.0\ObjectLifeTime.genruntimeconfig.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ObjectLifeTime\obj\Debug\net8.0\ref\ObjectLifeTime.dll

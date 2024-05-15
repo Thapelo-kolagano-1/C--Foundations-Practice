@@ -1,0 +1,14 @@
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\bin\Debug\net8.0\WhileIteration.exe
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\bin\Debug\net8.0\WhileIteration.deps.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\bin\Debug\net8.0\WhileIteration.runtimeconfig.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\bin\Debug\net8.0\WhileIteration.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\bin\Debug\net8.0\WhileIteration.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\obj\Debug\net8.0\WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\obj\Debug\net8.0\WhileIteration.AssemblyInfoInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\obj\Debug\net8.0\WhileIteration.AssemblyInfo.cs
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\obj\Debug\net8.0\WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\obj\Debug\net8.0\WhileIteration.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\obj\Debug\net8.0\refint\WhileIteration.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\obj\Debug\net8.0\WhileIteration.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\obj\Debug\net8.0\WhileIteration.genruntimeconfig.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\WhileIteration\obj\Debug\net8.0\ref\WhileIteration.dll

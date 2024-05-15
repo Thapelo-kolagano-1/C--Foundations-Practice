@@ -1,0 +1,14 @@
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\bin\Debug\net8.0\ConsoleApplication2.exe
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\bin\Debug\net8.0\ConsoleApplication2.deps.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\bin\Debug\net8.0\ConsoleApplication2.runtimeconfig.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\bin\Debug\net8.0\ConsoleApplication2.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\bin\Debug\net8.0\ConsoleApplication2.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\obj\Debug\net8.0\ConsoleApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\obj\Debug\net8.0\ConsoleApplication2.AssemblyInfoInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\obj\Debug\net8.0\ConsoleApplication2.AssemblyInfo.cs
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\obj\Debug\net8.0\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\obj\Debug\net8.0\ConsoleApplication2.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\obj\Debug\net8.0\refint\ConsoleApplication2.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\obj\Debug\net8.0\ConsoleApplication2.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\obj\Debug\net8.0\ConsoleApplication2.genruntimeconfig.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\ConsoleApplication2\obj\Debug\net8.0\ref\ConsoleApplication2.dll

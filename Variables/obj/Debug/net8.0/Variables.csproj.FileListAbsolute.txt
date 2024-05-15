@@ -1,0 +1,14 @@
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\Thapelo  Kolagano\source\repos\HelloWorld\Variables\obj\Debug\net8.0\ref\Variables.dll
